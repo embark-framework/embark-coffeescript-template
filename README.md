@@ -1,0 +1,1 @@
+# embark-coffeescript-template
