@@ -1,0 +1,15 @@
+{
+  "name": "embark-coffescript-template",
+  "version": "1.0.0",
+  "description": "Template using coffescript and embark",
+  "main": "index.js",
+  "scripts": {
+    "test": "embark test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "better-coffee-loader": "^0.1.0",
+    "coffeescript": "^2.3.2"
+  }
+}
